@@ -3,7 +3,8 @@
 # que é a quantia de imposto sobre vendas expressa em porcentagem e custo, 
 # que é o custo de um item antes do imposto. 
 # A função “altera” o valor de custo para incluir o imposto sobre vendas.
-#Curso Python - CVT Beberibe 
+#Curso Python - CVT Beberibe 2021
+
 
 print('>> Calculadora do preço real e com adição de impostos do produto')
 

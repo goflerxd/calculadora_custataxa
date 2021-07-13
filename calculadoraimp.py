@@ -16,3 +16,5 @@ print('Valor do produto com imposto:', somaImposto(t,c))
 
 print(">>> Obrigado por usar nossa aplicação! <<<")
 input('Digite ENTER para encerar o programa')
+
+#Programa teste
